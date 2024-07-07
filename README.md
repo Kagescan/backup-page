@@ -1,3 +1,5 @@
+# Kagescan painful edition.
+
 Kagescan.fr "service unavailable" error page
 
-![Hurt emote](painomg.png){width=64}
+<img src="painomg.png" width="64"/>
